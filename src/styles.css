@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.espace {
+  height: 50vh;
+  width: 50vw;
+}
+
+#root {
+  height: 50vh;
+}
+
+.cadre {
+  display: flex;
+}
+
+.upper-canvas {
+  border: black 2px solid;
+}
